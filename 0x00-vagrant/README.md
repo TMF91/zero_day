@@ -1,1 +1,1 @@
-Linux
+print_answer_uname
